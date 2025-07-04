@@ -5,7 +5,6 @@ public class Task {
 
     public Task(String description) {
         this.description = description;
-        // You may want to generate a unique id here or set it later
         this.isCompleted = false;
     }
 
